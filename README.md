@@ -59,4 +59,4 @@ it uses WIFI to get the [quotes](https://github.com/hxpe-dev/kotofetch/tree/main
 | `-Branch name` | Branch to take quotes from | `main` |
 
 ###
-[@hxpe-dev](https://hxpe-dev) sorry for taking the idea and using the quotes folder without permisson
+[@hxpe-dev](https://github.com/hxpe-dev) sorry for taking the idea and using the quotes folder without permisson
