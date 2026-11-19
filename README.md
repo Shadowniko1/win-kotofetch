@@ -1,5 +1,7 @@
 # win-kotofetch
-a version of [kotofetch](https://github.com/hxpe-dev/kotofetch) but easier and only for windows ***this thing is existing cuz the kotofetch.exe file was crashing on the real thing***
+a version of [kotofetch](https://github.com/hxpe-dev/kotofetch) but easier and only for windows.
+
+***this thing is existing cuz the kotofetch.exe file was crashing on the real thing***
 
 it uses WIFI to get the [quotes](https://github.com/hxpe-dev/kotofetch/tree/main/quotes)
 
